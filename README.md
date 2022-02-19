@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hey! 👋
+I'm **Srinath Ramachandran**, a Security Analyst working in IBM. 
 
-<!--
-**SrinathRamachandran/SrinathRamachandran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- Interested in working in networking, C++ Development and Computer vision.
+- Currently working on automating security operations and monitoring test environments for multiple clients @ IBM.
+-  **Comptia Security+ cerified.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- C, C++ and Python programming.
+- Django REST framework
+- Wireshark.
+- Linux, Bash scripting.
+- MongoDB, SQL.
+
