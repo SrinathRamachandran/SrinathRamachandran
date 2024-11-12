@@ -1,9 +1,9 @@
 ## Hey! 👋
-I'm **Srinath Ramachandran**, a Security Analyst working in IBM. 
+I'm **Srinath Ramachandran**, Student pursuing MS in University of Maryland.
 
 
-- Interested in working in networking, C++ Development and Computer vision.
-- Currently working on automating security operations and monitoring test environments for multiple clients @ IBM.
+- Interested in working in networking, C++ Development and python automation.
+- Fromerly worked on automating security operations and monitoring test environments for multiple clients @ IBM.
 -  **Comptia Security+ cerified.**
 
 ## Skills
