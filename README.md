@@ -1,11 +1,10 @@
-## Hey! 👋
-I'm **Srinath Ramachandran**, Student pursuing MS in University of Maryland.
+## Hello, Hola, Vanakkam! 👋
+I'm **Srinath Ramachandran**, Student pursuing MS in Telecommunications Engineering at the University of Maryland.
 
 
 - Interested in working in networking, C++ Development and python automation.
-- Fromerly worked on automating security operations and monitoring test environments for multiple clients @ IBM.
--  **Comptia Security+ cerified.**
-
+- My experiences include being a Security Engineer in IBM, Security Engineering intern in Commvault and also a Research Assistant in NMIT, Bangalore(undergraduate).
+- Currently interested in working in Network Security or Network infrastructure systems and research!
 ## Skills
 - C, C++ and Python programming.
 - Django REST framework
