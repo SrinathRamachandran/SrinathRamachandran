@@ -12,3 +12,7 @@ I'm **Srinath Ramachandran**, Student pursuing MS in Telecommunications Engineer
 - Linux, Bash scripting.
 - MongoDB, SQL.
 
+
+contact - Srinath.ramachandran26@gmail.com
+google scholar - https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH8HC4xy4Wpuzwohe_LiD-PPMxLA3p5l3fJfKBDRT4Q9NIZZinVeNH3dWLGJ_wRMaWBeZ-bcMslVoxJE8hH2bQ&user=lfeaQCgAAAAJ
+
